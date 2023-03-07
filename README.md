@@ -1,2 +1,2 @@
-# plantro.github.io
+# suppma.github.io
 personal design
